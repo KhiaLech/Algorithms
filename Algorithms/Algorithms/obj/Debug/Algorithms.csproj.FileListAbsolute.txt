@@ -1,0 +1,6 @@
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.pdb

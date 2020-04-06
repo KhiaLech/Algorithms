@@ -12,19 +12,18 @@ namespace Algorithms
         static void Main(string[] args)
         {
             string line;
-            FileStream aFile = new FileStream("C:/Users/Mark/Documents/Mark's Stuff/Unsorted_Numbers.csv", FileMode.Open);
+            FileStream aFile = new FileStream("C:/Users/61478/OneDrive - Swinburne University/Diploma/Prog/Algorithms/unsorted_numbers.csv", FileMode.Open);
             StreamReader sr = new StreamReader(aFile);
-            // read data in line by line
+           // read data in line by line;
             while ((line = sr.ReadLine()) != null)
             {
                 Console.WriteLine(line);
                 line = sr.ReadLine();
             }
-             // sr.Close();
+            // sr.Close();
             Console.ReadKey();
         }
     }
 }
 
 
-// C:\Users\61478\OneDrive - Swinburne University\Diploma\Prog\Algorithms
