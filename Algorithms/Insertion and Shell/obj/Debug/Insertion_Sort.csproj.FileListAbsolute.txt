@@ -1,0 +1,8 @@
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Insertion and Shell\obj\Debug\Insertion_Sort.csprojAssemblyReference.cache
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Insertion and Shell\bin\Debug\Insertion and Shell.exe.config
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Insertion and Shell\bin\Debug\Insertion and Shell.exe
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Insertion and Shell\bin\Debug\Insertion and Shell.pdb
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Insertion and Shell\bin\Debug\WindowsBase.dll
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Insertion and Shell\obj\Debug\Insertion_Sort.csproj.CopyComplete
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Insertion and Shell\obj\Debug\Insertion and Shell.exe
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Insertion and Shell\obj\Debug\Insertion and Shell.pdb

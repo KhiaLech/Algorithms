@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Documents;
 
 namespace Algorithms
 {
@@ -29,10 +30,12 @@ namespace Algorithms
 
         static void printArray(List<int> arr)
         {
-            int n = arr.Count;
-            for (int i = 0; i < n; ++i)
-                Console.Write(arr[i] + " ");
-            Console.Write("\n");
+           
+            foreach (int i in arr)
+            {
+                Console.Write(i.ToString() + "  ");
+            }
+
         }
 
         public static void Main()
@@ -59,12 +62,54 @@ namespace Algorithms
             InsertionSort ob = new InsertionSort();
             ob.sort(arr);
 
-            Console.WriteLine("Sorted Numbers");
+            Console.WriteLine("SORTED NUMBERS USING INSERTION SORT");
             printArray(arr);
 
+
+            Console.WriteLine(Environment.NewLine + Environment.NewLine + "Would you like to start a binary search for the values 575154, 182339, 17132, 773788, 296934, 991395, 303270, 45231, 580, 629822?");
+            var userdecision = Console.ReadLine();
+            if (userdecision == "yes")
+            {
+
+               int k = arr.BinarySearch(575154);
+                Console.WriteLine("575154 is in position " + k + " of the list");
+
+                k = arr.BinarySearch(182339);
+                Console.WriteLine("182339 is in position " + k + " of the list");
+
+                 k = arr.BinarySearch(17132);
+                Console.WriteLine("17132 is in position " + k + " of the list");
+
+                 k = arr.BinarySearch(773788);
+                Console.WriteLine("773788 is in position " + k + " of the list");
+
+                 k = arr.BinarySearch(296934);
+                Console.WriteLine("296934 is in position " + k + " of the list");
+
+                 k = arr.BinarySearch(991395);
+                Console.WriteLine("991395 is in position " + k + " of the list");
+
+                 k = arr.BinarySearch(303270);
+                Console.WriteLine("303270 is in position " + k + " of the list");
+
+                 k = arr.BinarySearch(45231);
+                Console.WriteLine("45231 is in position " + k + " of the list");
+
+                 k = arr.BinarySearch(580);
+                Console.WriteLine("580 is in position " + k + " of the list");
+
+                 k = arr.BinarySearch(629822);
+                Console.WriteLine("629822 is in position " + k + " of the list");
+
+            }
+            else
+            {
+                Console.WriteLine("goodbye");
+            }
+                       
             Console.ReadKey();
              
-
         }
     }
 }
+ 

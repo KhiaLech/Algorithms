@@ -59,7 +59,7 @@ namespace Algorithms
             ShellSort ob = new ShellSort();
             ob.sort(arr);
 
-            Console.Write("\nSorted Numbers\n");
+            Console.Write("\nSORTED NUMBERS USING SHELL SORT\n");
             printArray(arr);
 
             Console.ReadKey();
