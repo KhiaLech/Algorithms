@@ -72,39 +72,39 @@ namespace Linear_Search
                 var userdecision = Console.ReadLine();
                 if (userdecision == "yes")
                 {
-                    int m = arr.IndexOf(575154);
-                    Console.WriteLine("\n575154 is in position " + m + " of the list");
+                    int k = arr.IndexOf(575154);
+                    Console.WriteLine("\nValue 575154 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(182339);
-                    Console.WriteLine("182339 is in position " + m + " of the list");
+                    k = arr.IndexOf(182339);
+                    Console.WriteLine("Value 182339 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(17132);
-                    Console.WriteLine("17132 is in position " + m + " of the list");
+                    k = arr.IndexOf(17132);
+                    Console.WriteLine("Value 17132 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(773788);
-                    Console.WriteLine("773788 is in position " + m + " of the list");
+                    k = arr.IndexOf(773788);
+                    Console.WriteLine("Value 773788 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(296934);
-                    Console.WriteLine("296934 is in position " + m + " of the list");
+                    k = arr.IndexOf(296934);
+                    Console.WriteLine("Value 296934 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(991395);
-                    Console.WriteLine("991395 is in position " + m + " of the list");
+                    k = arr.IndexOf(991395);
+                    Console.WriteLine("Value 991395 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(303270);
-                    Console.WriteLine("303270 is in position " + m + " of the list");
+                    k = arr.IndexOf(303270);
+                    Console.WriteLine("Value 303270 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(45231);
-                    Console.WriteLine("45231 is in position " + m + " of the list");
+                    k = arr.IndexOf(45231);
+                    Console.WriteLine("Value 45231 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(580);
-                    Console.WriteLine("580 is in position " + m + " of the list");
+                    k = arr.IndexOf(580);
+                    Console.WriteLine("Value 580 is in position " + k + " of the list");
 
-                    m = arr.IndexOf(629822);
-                    Console.WriteLine("629822 is in position " + m + " of the list");
+                    k = arr.IndexOf(629822);
+                    Console.WriteLine("Value 629822 is in position " + k + " of the list");
                 }
                 else
                 {
-                    Console.WriteLine("Goodbye. . .");
+                    Console.WriteLine("Goodbye.");
                 }
 
                 Console.ReadKey();

@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion_Sort", "Insertion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear Search", "Linear Search\Linear Search.csproj", "{6286C80B-12E8-4842-9E8F-2EED1FFBA71C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Search", "Binary Search\Binary Search.csproj", "{C911AE8C-07C7-41DC-BAB0-78045AC59BC7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{6286C80B-12E8-4842-9E8F-2EED1FFBA71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6286C80B-12E8-4842-9E8F-2EED1FFBA71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6286C80B-12E8-4842-9E8F-2EED1FFBA71C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C911AE8C-07C7-41DC-BAB0-78045AC59BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C911AE8C-07C7-41DC-BAB0-78045AC59BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C911AE8C-07C7-41DC-BAB0-78045AC59BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C911AE8C-07C7-41DC-BAB0-78045AC59BC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
