@@ -1,0 +1,11 @@
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\bin\Debug\netcoreapp3.1\Linear Search.exe
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\bin\Debug\netcoreapp3.1\Linear Search.deps.json
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\bin\Debug\netcoreapp3.1\Linear Search.runtimeconfig.json
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\bin\Debug\netcoreapp3.1\Linear Search.runtimeconfig.dev.json
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\bin\Debug\netcoreapp3.1\Linear Search.dll
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\bin\Debug\netcoreapp3.1\Linear Search.pdb
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\obj\Debug\netcoreapp3.1\Linear Search.csprojAssemblyReference.cache
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\obj\Debug\netcoreapp3.1\Linear Search.AssemblyInfoInputs.cache
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\obj\Debug\netcoreapp3.1\Linear Search.AssemblyInfo.cs
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\obj\Debug\netcoreapp3.1\Linear Search.dll
+C:\Users\61478\Documents\GitHub\Algorithms\Algorithms\Linear Search\obj\Debug\netcoreapp3.1\Linear Search.pdb
